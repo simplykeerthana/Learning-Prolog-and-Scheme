@@ -9,16 +9,16 @@ Prolog
 
 Operating System | How to Install
 ----------------- | --------------
-MacOS 1           | ```brew install prolog``` 2
-Windows/Other 1   | You can download it here https://www.swi-prolog.org 2
-Online Compiler 1 | https://swish.swi-prolog.org 2
+MacOS             | ```brew install prolog``` 
+Windows/Other     | You can download it here https://www.swi-prolog.org 
+Online Compiler   | https://swish.swi-prolog.org 
 
 Scheme
 
 Operating System | How to Install
 ----------------- | --------------
-MacOS 1           | ```brew install mit-scheme``` 2
-Windows/Other 1   | You can download it here https://www.gnu.org/software/mit-scheme/
+MacOS             | ```brew install mit-scheme``` 
+Windows/Other     | You can download it here https://www.gnu.org/software/mit-scheme/
 
 
 
