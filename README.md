@@ -8,10 +8,9 @@ This Repo will consist of any resources, notes and sample program that i do in t
 Prolog 
 
 Operating System | How to Install
-
 ----------------- | --------------
-MacOS 1            | ```brew install prolog``` 2
-Windows/Other 2   | You can download it here https://www.swi-prolog.org 2
+MacOS 1           | ```brew install prolog``` 2
+Windows/Other 1   | You can download it here https://www.swi-prolog.org 2
 
 
 
