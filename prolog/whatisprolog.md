@@ -1,3 +1,3 @@
 What is Prolog?
 
-Prolog is a functional programming language. 
+Prolog is a logic programming language. 
