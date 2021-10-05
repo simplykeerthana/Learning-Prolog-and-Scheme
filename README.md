@@ -19,7 +19,14 @@ Operating System | How to Install
 ----------------- | --------------
 MacOS             | ```brew install mit-scheme``` 
 Windows/Other     | You can download it here https://www.gnu.org/software/mit-scheme/
+Other             | https://racket-lang.org
 
+Books: 
+
+Programming Language | Book Name & Description
+-------------------- | ------------------------
+Prolog               |  tba
+Scheme.              |  tba
 
 
 
