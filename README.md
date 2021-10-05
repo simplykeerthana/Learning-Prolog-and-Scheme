@@ -23,9 +23,9 @@ Other             | https://racket-lang.org
 
 Books: 
 
-Programming Language | Book Name & Description
+Programming Language | Book/Resources &
 -------------------- | ------------------------
-Prolog               |  tba
+Prolog               |  https://www.youtube.com/watch?v=vcQD2iPOc6Q&list=PLWPirh4EWFpFLjsd3IUqymnCVBaz1Yagg
 Scheme.              |  tba
 
 
